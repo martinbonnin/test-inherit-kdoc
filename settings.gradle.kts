@@ -6,3 +6,5 @@ pluginManagement {
     }
   }
 }
+
+include(":lib1", ":lib2")
